@@ -1,0 +1,4 @@
+# Cloudflare Pages _redirects — analog zu vercel.json
+/imprint    /impressum    301
+/privacy    /datenschutz  301
+/terms      /agb          301

@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /_dev/
+Disallow: /api/
+
+Host: https://wanderwell.diggai.de
+Sitemap: https://wanderwell.diggai.de/sitemap.xml
